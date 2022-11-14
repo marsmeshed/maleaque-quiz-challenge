@@ -11,6 +11,13 @@
 
 }
 
+#startTime:hover,
+#goBack:hover,
+#clear:hover {
+cursor: pointer;
+}
+
+
 body {
   --hue: var(--hue-neutral);
   padding: 0;
