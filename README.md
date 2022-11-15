@@ -9,8 +9,11 @@
 Here's a screenshot showing a mockup of what should appear when loading up the program.
 <img src="./quiz.png" alt="screenshot of mockup">
 
-Here's a link to the repo.
+Here's a link to the repo:
 https://github.com/marsmeshed/maleaque-quiz-challenge
+
+Deployed site:
+https://marsmeshed.github.io/maleaque-quiz-challenge/
 
 ## Installation
 
